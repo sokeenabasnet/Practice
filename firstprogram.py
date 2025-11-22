@@ -58,4 +58,3 @@
 # b=float(input("enter a number:"))
 # print("average value of a and b is:",a+b/2)
 # print(a<=b)
-sokeena python ho
